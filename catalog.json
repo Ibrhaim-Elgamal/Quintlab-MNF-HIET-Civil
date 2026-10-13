@@ -14,20 +14,12 @@
         "icon": "fa-building",
         "files": [
           {
-            "id": "f_y1_1",
-            "title": "محاضرة 1: Beams & Trusses",
-            "type": "Lecture",
-            "path": "data/year1/structures/lec1.pdf",
-            "desc": "مقدمة حساب ردود الأفعال والعزوم",
-            "date": "2026-02-01"
-          },
-          {
-            "id": "f_y1_2",
-            "title": "امتحان منتصف الفصل 2025",
-            "type": "Exam",
-            "path": "data/year1/structures/midterm2025.pdf",
-            "desc": "مع حلول الأسئلة",
-            "date": "2025-11-15"
+            "id": "f_1791901725986",
+            "title": "صورة",
+            "type": "Summary",
+            "path": "555.png",
+            "desc": "",
+            "date": "2026-10-13"
           }
         ]
       },

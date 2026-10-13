@@ -1,0 +1,99 @@
+{
+  "prep": {
+    "title": "الفرقة الإعدادية",
+    "subjects": []
+  },
+  "year1": {
+    "title": "الفرقة الأولى مدني",
+    "subjects": [
+      {
+        "id": "sub_y1_str",
+        "name": "تحليل منشآت (1) - Structural Analysis",
+        "code": "CIV-101",
+        "desc": "حساب العزوم وقوى القص والقوى المحورية للكاميرات والإطارات",
+        "icon": "fa-building",
+        "files": [
+          {
+            "id": "f_y1_1",
+            "title": "محاضرة 1: Beams & Trusses",
+            "type": "Lecture",
+            "path": "data/year1/structures/lec1.pdf",
+            "desc": "مقدمة حساب ردود الأفعال والعزوم",
+            "date": "2026-02-01"
+          },
+          {
+            "id": "f_y1_2",
+            "title": "امتحان منتصف الفصل 2025",
+            "type": "Exam",
+            "path": "data/year1/structures/midterm2025.pdf",
+            "desc": "مع حلول الأسئلة",
+            "date": "2025-11-15"
+          }
+        ]
+      },
+      {
+        "id": "sub_y1_mat",
+        "name": "خواص واختبار المواد",
+        "code": "CIV-102",
+        "desc": "سلوك الأسمنت والركام واختبارات الشد والضغط",
+        "icon": "fa-trowel-bricks",
+        "files": []
+      }
+    ]
+  },
+  "year2": {
+    "title": "الفرقة الثانية مدني",
+    "subjects": [
+      {
+        "id": "sub_y2_conc",
+        "name": "تصميم خرسانة مسلحة (1)",
+        "code": "CIV-201",
+        "desc": "تصميم القطاعات الخرسانية المقاومة للانحناء والقص",
+        "icon": "fa-trowel-bricks",
+        "files": []
+      },
+      {
+        "id": "sub_y2_fluid",
+        "name": "ميكانيكا الموائع وهيدروليكا",
+        "code": "CIV-202",
+        "desc": "سريان السوائل، الضغوط والقنوات المفتوحة",
+        "icon": "fa-water",
+        "files": []
+      }
+    ]
+  },
+  "year3": {
+    "title": "الفرقة الثالثة مدني",
+    "subjects": [
+      {
+        "id": "sub_y3_steel",
+        "name": "تصميم منشآت معدنية (Steel 1)",
+        "code": "CIV-301",
+        "desc": "تصميم عناصر الصلب المقاومة للشد والضغط والوصلات",
+        "icon": "fa-compass-drafting",
+        "files": []
+      },
+      {
+        "id": "sub_y3_soil",
+        "name": "ميكانيكا التربة والأساسات",
+        "code": "CIV-302",
+        "desc": "تصنيف التربة، هبوط التربة وتصميم القواعد المسلحة",
+        "icon": "fa-road",
+        "files": []
+      }
+    ]
+  },
+  "year4": {
+    "title": "الفرقة الرابعة مدني",
+    "subjects": [
+      {
+        "id": "sub_y4_proj",
+        "name": "مشروع التخرج المتقدم",
+        "code": "CIV-401",
+        "desc": "التصميم الكامل للمنشآت والكباري وحساب الكميات",
+        "icon": "fa-building",
+        "files": []
+      }
+    ]
+  }
+}

@@ -1,7 +1,16 @@
 {
   "prep": {
     "title": "الفرقة الإعدادية",
-    "subjects": []
+    "subjects": [
+      {
+        "id": "sub_1791914800213",
+        "name": "5",
+        "code": "",
+        "desc": "",
+        "icon": "fa-building",
+        "files": []
+      }
+    ]
   },
   "year1": {
     "title": "الفرقة الأولى مدني",

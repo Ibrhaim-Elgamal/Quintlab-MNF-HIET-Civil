@@ -1,0 +1,48 @@
+{
+  "prep": {
+    "title": "الفرقة الإعدادية",
+    "subjects": [
+      {
+        "id": "sub_1791984667688",
+        "name": "رياضيات هندسية 1",
+        "code": "BES011",
+        "desc": "",
+        "icon": "fa-calculator",
+        "files": []
+      },
+      {
+        "id": "sub_1791984721029",
+        "name": "رياضيات هندسية 2",
+        "code": "BES012",
+        "desc": "",
+        "icon": "fa-calculator",
+        "files": []
+      }
+    ]
+  },
+  "year1": {
+    "title": "الفرقة الأولى مدني",
+    "subjects": []
+  },
+  "year2": {
+    "title": "الفرقة الثانية مدني",
+    "subjects": [
+      {
+        "id": "sub_1791983871494",
+        "name": "هيدروليكا",
+        "code": "",
+        "desc": "2026-2027\nد حمدي السيد",
+        "icon": "fa-atom",
+        "files": []
+      }
+    ]
+  },
+  "year3": {
+    "title": "الفرقة الثالثة مدني",
+    "subjects": []
+  },
+  "year4": {
+    "title": "الفرقة الرابعة مدني",
+    "subjects": []
+  }
+}

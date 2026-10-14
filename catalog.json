@@ -81,6 +81,30 @@
         "desc": "",
         "icon": "fa-atom",
         "files": []
+      },
+      {
+        "id": "sub_1791986123272",
+        "name": "لغة انجليزية 1",
+        "code": "GIR011",
+        "desc": "",
+        "icon": "fa-atom",
+        "files": []
+      },
+      {
+        "id": "sub_1791986346986",
+        "name": "لغة انجليزية 2",
+        "code": "GIR012",
+        "desc": "",
+        "icon": "fa-atom",
+        "files": []
+      },
+      {
+        "id": "sub_1791986403558",
+        "name": "تاريخ الهندسة والتكنولوجيا",
+        "code": "GIR032",
+        "desc": "",
+        "icon": "fa-atom",
+        "files": []
       }
     ]
   },

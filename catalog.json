@@ -57,6 +57,30 @@
         "desc": "",
         "icon": "fa-compass-drafting",
         "files": []
+      },
+      {
+        "id": "sub_1791985596752",
+        "name": "مبادئ هندسة التصنيع",
+        "code": "EIR011",
+        "desc": "",
+        "icon": "fa-compass-drafting",
+        "files": []
+      },
+      {
+        "id": "sub_1791985729661",
+        "name": "ميكانيكا هندسية 1",
+        "code": "BES031",
+        "desc": "",
+        "icon": "fa-atom",
+        "files": []
+      },
+      {
+        "id": "sub_1791985904039",
+        "name": "ميكانيكا هندسية 2",
+        "code": "BES032",
+        "desc": "",
+        "icon": "fa-atom",
+        "files": []
       }
     ]
   },

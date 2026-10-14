@@ -17,6 +17,46 @@
         "desc": "",
         "icon": "fa-calculator",
         "files": []
+      },
+      {
+        "id": "sub_1791984853973",
+        "name": "فيزياء هندسية 1",
+        "code": "BES021",
+        "desc": "",
+        "icon": "fa-atom",
+        "files": []
+      },
+      {
+        "id": "sub_1791984906449",
+        "name": "فيزياء هندسية 2",
+        "code": "BES022",
+        "desc": "",
+        "icon": "fa-atom",
+        "files": []
+      },
+      {
+        "id": "sub_1791985330388",
+        "name": "كيمياء هندسية",
+        "code": "BES041",
+        "desc": "",
+        "icon": "fa-atom",
+        "files": []
+      },
+      {
+        "id": "sub_1791985406859",
+        "name": "مقدمة في الحاسبات والبرمجة",
+        "code": "ELE071",
+        "desc": "",
+        "icon": "fa-calculator",
+        "files": []
+      },
+      {
+        "id": "sub_1791985507385",
+        "name": "الرسم الهندسي والإسقاط",
+        "code": "EIR012",
+        "desc": "",
+        "icon": "fa-compass-drafting",
+        "files": []
       }
     ]
   },
